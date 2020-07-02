@@ -51,7 +51,7 @@ to see all the shortcuts keys in tmux simply use the `bind-key ?` in my case tha
     ,  name window
     &  kill window
 
-## <a name="PanesSplits"></a>Panes (splits) 
+## <a name="Panes"></a>Panes
 
     %  vertical split
     "  horizontal split
